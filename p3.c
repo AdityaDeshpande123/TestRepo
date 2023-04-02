@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello World 3 from Praneeth");
+
+    
+
+    printf("Hello World from three");
+
     return 0;
 }
